@@ -1,0 +1,7 @@
+names:
+  0: bird
+  1: drone
+path: F:\Aerial Object Classification & Detection\data\object_detection_dataset
+test: images/val
+train: images/train
+val: images/val
