@@ -1,7 +1,0 @@
-names:
-  0: bird
-  1: drone
-path: f:\Aerial Object Classification & Detection\data\Object Detection Dataset
-test: images/test
-train: images/train
-val: images/val
